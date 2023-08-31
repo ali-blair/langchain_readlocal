@@ -12,4 +12,4 @@ Uses langchain to read local files into vector database and begin Q&A with LLM u
 - [ ] Increase efficiency + customization: allow users to select specific pages of documents
 - [ ] Increase efficiency + customization: allow users to search documents for specific words and disregard sections without
 - [ ] Test out different models and compile a list comparing accuracy, file size and speed (some models are very slow and don't provide much more accuracy)
-- [ ] Make code more interactable and user-friendly
+- [ ] Make code more interactable and user-friendly (perhaps introduce tkinter to aid GUI design)
